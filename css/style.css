@@ -1,0 +1,21 @@
+img {
+	max-height: 300px;
+	max-width: 300px;
+}
+a{
+	margin-left: 100px;
+	text-decoration: none;
+}
+a:visited{
+	color: grey;
+}
+a:hover{
+	font-size: 25px;
+	color: red;
+}
+a:active{
+	color: green;
+}
+p{
+	margin-left: 100px;
+}
